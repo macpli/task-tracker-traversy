@@ -1,1 +1,2 @@
-# Tash tracker app made in Angular following Traversy Media course (link: www.youtube.com/@TraversyMedia)
+# Task Tracker App
+Made in Angular following Traversy Media course (link: www.youtube.com/@TraversyMedia)
